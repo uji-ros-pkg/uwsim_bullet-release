@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>bullet</name>
+  <name>uwsim_bullet</name>
   <version>2.79.0</version>
   <description>The bullet library. See https://code.google.com/p/bullet</description>
 
