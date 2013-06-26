@@ -1,0 +1,12 @@
+Source: ros-groovy-uwsim-bullet
+Section: misc
+Priority: extra
+Maintainer: "Mario Prats <mprats@willowgarage.com>"
+Build-Depends: debhelper (>= 7.0.50~), cmake, freeglut3-dev, libxext-dev
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-groovy-uwsim-bullet
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, freeglut3-dev, libxext-dev, ros-groovy-catkin
+Description: The bullet library. See https://code.google.com/p/bullet
