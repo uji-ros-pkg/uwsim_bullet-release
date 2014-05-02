@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <package>
   <name>uwsim_bullet</name>
-  <version>2.79.0</version>
+  <version>2.82.1</version>
   <description>The bullet library. See https://code.google.com/p/bullet</description>
 
-  <maintainer email="mprats@willowgarage.com">Mario Prats</maintainer>
+  <maintainer email="marioprats@gmail.com">Mario Prats</maintainer>
   <license>Check author's website</license>
 
   <buildtool_depend>cmake</buildtool_depend>
