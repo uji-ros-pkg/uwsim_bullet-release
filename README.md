@@ -1,3 +1,24 @@
+## uwsim_bullet (jade) - 2.82.1-0
+
+The packages in the `uwsim_bullet` repository were released into the `jade` distro by running `/usr/bin/bloom-release uwsim_bullet --track jade --rosdistro jade --new-track` on `Thu, 17 Sep 2015 23:51:54 -0000`
+
+The `uwsim_bullet` package was released.
+
+Version of package(s) in repository `uwsim_bullet`:
+- upstream repository: https://github.com/uji-ros-pkg/uwsim_bullet.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.82.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## uwsim_bullet (indigo) - 2.82.1-0
 
 The packages in the `uwsim_bullet` repository were released into the `indigo` distro by running `/usr/bin/bloom-release uwsim_bullet --track indigo --rosdistro indigo --new-track` on `Thu, 11 Sep 2014 09:35:02 -0000`
