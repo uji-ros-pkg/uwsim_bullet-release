@@ -1,3 +1,26 @@
+## uwsim_bullet (melodic) - 2.82.2-1
+
+The packages in the `uwsim_bullet` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release --rosdistro melodic --track melodic uwsim_bullet --edit` on `Sun, 10 Nov 2019 18:52:59 -0000`
+
+The `uwsim_bullet` package was released.
+
+Version of package(s) in repository `uwsim_bullet`:
+
+- upstream repository: https://github.com/uji-ros-pkg/uwsim_bullet.git
+- release repository: https://github.com/uji-ros-pkg/uwsim_bullet-release.git
+- rosdistro version: `2.82.1-1`
+- old version: `2.82.1-1`
+- new version: `2.82.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.40`
+
+
 ## uwsim_bullet (melodic) - 2.82.1-1
 
 The packages in the `uwsim_bullet` repository were released into the `melodic` distro by running `/usr/bin/bloom-release uwsim_bullet --rosdistro melodic` on `Fri, 11 Oct 2019 08:05:46 -0000`
